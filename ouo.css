@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script|Quicksand');
+.isa1 { width: 600px; height: 550px;}
+.isa2 {width: 525px; height: 500px; position:relative; top: 25px; filter: saturate(.3); transition:all 2.5s}
+.isa3 { position: absolute; width: 480px; height: 450px; background-color:transparent; left: 20px; top: 25px;}
+.owo1 { position:absolute; border-bottom: 3px #fff solid; top: 200px; left: 20px; width: 460px; height:22px; padding-bottom: 35px; webkit-transition:all 1s ease-in-out; -moz-transition:all 1s ease-in-out; -o-transition:all 1s ease-in-out; transition:all 1s ease-in-out; transition-delay: .75s; -webkit-transition-delay: .75s; }
+.isa3:hover .owo1 { top: 20px; webkit-transition:all 1s ease-in-out; -moz-transition:all 1s ease-in-out; -o-transition:all 1s ease-in-out; transition:all 1s ease-in-out; }
+.owo2 { width: 460px; height: 300px; margin-top: 25px;padding: 5px; font-family: calibri; font-size: 10px; color: #000; text-align: justify; line-height:100%; opacity: 0; webkit-transition:all 1s ease-in-out; -moz-transition:all 1s ease-in-out; -o-transition:all 1s ease-in-out; transition:all 1s ease-in-out; position: absolute; left: 15px; top: 60px; }
+.isa2:hover .owo2 { opacity:1; webkit-transition:all 1s ease-in-out; -moz-transition:all 1s ease-in-out; -o-transition:all 1s ease-in-out; transition:all 1s ease-in-out; transition-delay: .75s; -webkit-transition-delay: .75s;}
+.isa4 { width: 460px; height: 350px; line-height: 25px; color: #fff; font-family: calibri, monospace; text-transform: uppercase; text-align: center; font-size: 9px; letter-spacing: 1px; border-top: 3px solid #fff; padding-top: 5px; position: absolute; top: 250px; left: 20px; webkit-transition:all 1s ease-in-out; -moz-transition:all 1s ease-in-out; -o-transition:all 1s ease-in-out; transition:all 1s ease-in-out; transition-delay: .75s; -webkit-transition-delay: .75s; } 
+.isa2:hover .isa4 { opacity:1; webkit-transition:all 1s ease-in-out; -moz-transition:all 1s ease-in-out; -o-transition:all 1s ease-in-out; transition:all 1s ease-in-out; top: 400px; }
+.isa2:hover  {filter:saturate(1);}
+.uwu{width:150px; height: 300px; float:left;position:relative;margin-right:5px; margin-top: -3px; border: 3px solid #fff ;filter:contrast(130%);}
+.uwu2{width:295px; height: 306px;float:left;position:relative;overflow:auto; margin-top: -3px;}
+.caji {width: 260px; border: 3px solid #fff; height: 260px; margin-left: 10px; margin-top: 20px; border-radius: 35px; overflow: auto;}
+.cuad {width: 240px; height: 180px; margin-left: 12px; margin-top: 15px; overflow: auto; border-radius: 6px; color: #fff;}
+.trian {width: 0;height: 0;     border-right: 20px solid transparent;border-top: 20px solid #fff;border-left: 20px solid transparent;border-bottom: 20px solid transparent; margin-left: 120px;}
+::-webkit-scrollbar-thumb{background-color: #000;border:0px solid #000;height:auto;width:8px;} ::-webkit-scrollbar{background-color:#fff;border:3px solid #fff;height:4px;width:4px;}
+.letro {font-family: Bad Script; font-size: 40px; color: #fff; text-align: center; letter-spacing: -1px; line-height: 30%;  padding: 20px; font-style: italic;text-shadow:2px 2px #79af79,0px 0px 30px rgb(255,255,255);}
+.letri {font-family: Quicksand;font-size: 40px; color: #fff; text-align: center; letter-spacing: -1px; line-height: 30%;  padding: 20px; text-decoration: underline; font-style: italic;text-shadow:2px 2px #79af79,0px 0px 30px rgb(255,255,255);}
+.coso { color: #000; width:130px; text-transform: uppercase; font-family: Quicksand; height:auto; text-align: center; padding:5px; margin: 5px; margin-left: 20px; background-color:#fff; font-size: 11px;}
+.coso1 { color: #000; width:130px; text-transform: uppercase; font-family: Quicksand; height:auto; text-align: center; padding:5px; margin: 5px; margin-left: 80px; background-color:#fff; font-size: 11px;}
+.mini {font-family: Quicksand;font-size: 10px; color: #fff; text-align: center; letter-spacing: -1px; line-height: 30%;  padding: 20px;margin-top: 240px; font-style: italic;}
