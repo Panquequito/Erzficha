@@ -4,18 +4,17 @@ font-family: 'Slabo 27px';
   font-style: normal;
   font-size: 9px; 
   color: #fff; 
-  position:relative;
-  bottom:10px;
-  left: 275px;
-  padding: 10px; 
+  position:absolute;
+  margin-left: 270px;
+padding: 9px;
 }
 .cosote {
     border: 5px solid #000;
-    height: 570px;
+    height: 560px;
     margin-top: 20px;
     overflow: hidden;
     padding: 15px;
-    width: 550px;
+    width: 540px;
 }
 .otrocosote { width: 550px;
 height: 570px; 
